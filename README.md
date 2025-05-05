@@ -60,3 +60,6 @@ Create a .env file in the project root with:
 	2.	Writes the telemetry JSON to Blob Storage
 + Posts a formatted temperature alert to your Cisco Webex Room, for example:
 	+ ℹ️ **Teplota:** {temperature} **, Vlhkosť:** {humidity} **, CO2:** {co2} **, IAQ:** {iaq} **, Tlak:** {pressure} **, Napätie batérie:** {battery_v}
+
+## 🔖 License
+This GitHub repository is provided free of charge and may be used without restriction. The author assumes no responsibility or liability for any use of this repository.
